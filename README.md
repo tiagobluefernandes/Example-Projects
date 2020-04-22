@@ -2,5 +2,6 @@
 
 This folder will have my personal projects.
 
+Anime_Youtube_Capstone_Project.pdf
 Capstone Project for Coursera:
-Python Data Products for Predictive Analytics Specialization
+u'•' Python Data Products for Predictive Analytics Specialization
